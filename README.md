@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>![Screenshot (583)](https://github.com/jcyadav/B2B-Dashboard/assets/82964912/90f7da17-b5ec-4546-a8c5-379cf03de7cc)
 
+![Screenshot (583)](https://github.com/jcyadav/B2B-Dashboard/assets/82964912/88a66657-3f1c-4b38-a47a-10c28bfb74aa)
 
 ## About Laravel
 
