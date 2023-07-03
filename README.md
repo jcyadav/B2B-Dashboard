@@ -5,7 +5,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+</p>![Screenshot (583)](https://github.com/jcyadav/B2B-Dashboard/assets/82964912/90f7da17-b5ec-4546-a8c5-379cf03de7cc)
+
 
 ## About Laravel
 
